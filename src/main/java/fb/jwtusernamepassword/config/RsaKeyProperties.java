@@ -1,4 +1,4 @@
-package fb.jwtdemo.config;
+package fb.jwtusernamepassword.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

@@ -1,4 +1,4 @@
-package fb.jwtdemo.service;
+package fb.jwtusernamepassword.service;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;

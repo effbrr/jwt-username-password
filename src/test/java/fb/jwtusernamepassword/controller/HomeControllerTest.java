@@ -1,7 +1,7 @@
-package fb.jwtdemo.controller;
+package fb.jwtusernamepassword.controller;
 
-import fb.jwtdemo.config.SecurityConfig;
-import fb.jwtdemo.service.TokenService;
+import fb.jwtusernamepassword.config.SecurityConfig;
+import fb.jwtusernamepassword.service.TokenService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;

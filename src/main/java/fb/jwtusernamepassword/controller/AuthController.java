@@ -1,6 +1,6 @@
-package fb.jwtdemo.controller;
+package fb.jwtusernamepassword.controller;
 
-import fb.jwtdemo.service.TokenService;
+import fb.jwtusernamepassword.service.TokenService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.security.core.Authentication;
